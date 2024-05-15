@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "price": "3",
+    "category": "drink",
+    "quantity": 16,
+    "name": "cola",
+    "stock": 1,
+    "img": "Cola.jpg"
+  },
+  {
+    "id": "2",
+    "price": "4",
+    "category": "drink",
+    "quantity": 12,
+    "name": "sprite",
+    "stock": 1,
+    "img": "Sprite.png"
+  },
+  {
+    "id": "3",
+    "price": "5",
+    "category": "drink",
+    "quantity": 5,
+    "name": "red bull",
+    "stock": 1,
+    "img": "Redbull.jpg"
+  },
+  {
+    "id": "4",
+    "price": "5",
+    "category": "drink",
+    "quantity": 5,
+    "name": "Milk",
+    "stock": 1,
+    "img": "Milk.jpg"
+  }
+]

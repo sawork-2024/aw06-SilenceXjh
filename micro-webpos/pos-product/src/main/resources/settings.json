@@ -1,0 +1,16 @@
+{
+  "_id": 1,
+  "settings": {
+    "app": "Standalone Point of Sale",
+    "store": "Store-Pos",
+    "address_one": "10086",
+    "address_two": "10087",
+    "contact": "15968774896",
+    "tax": "",
+    "symbol": "$",
+    "percentage": "10",
+    "footer": "",
+    "img": ""
+  },
+  "id": "d36d"
+}
